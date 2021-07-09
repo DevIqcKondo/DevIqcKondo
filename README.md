@@ -19,7 +19,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-@kondo_isadora-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/kondo_isadora)](https://twitter.com/kondo_isadora) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iqckondo_/)](https://www.instagram.com/iqckondo_/)
 
----
-  ![Snake animation](https://github.com/DevIqcKondo/DevIqcKondo/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
