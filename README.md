@@ -1,7 +1,7 @@
 ### Isadora Kondo 👋
 
 * Cursando técnico em Informática na EtecAB 
-* Cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UNISANTA
+* Cursando Análise e Desenvolvimento de Sistemas na UNISANTA
 >  “Ninguém ignora tudo, ninguém sabe tudo. Por isso aprendemos sempre.”
 
 </div>
