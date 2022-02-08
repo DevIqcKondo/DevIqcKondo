@@ -2,7 +2,6 @@
 ---
 
 * Cursando técnico em Informática na EtecAB 
-* Cursando Análise e Desenvolvimento de Sistemas na UNISANTA
 <div>
   <a href="https://github.com/DevIqcKondo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevIqcKondo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
